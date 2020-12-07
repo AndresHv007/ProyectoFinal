@@ -1,4 +1,4 @@
-# Scores System
+# Calificaciones System
 esto es una prueba
 ## About the Databse
 The database ...(info about the database)

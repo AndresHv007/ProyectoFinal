@@ -1,0 +1,59 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta Nombre="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <title>Menu</title>
+  
+</head>
+
+<body>
+  <div class="container">
+    <div id="wrapper" class="animate">
+    <nav class="navbar header-top fixed-top navbar-expand-lg navbar-dark bg-dark">
+
+      <!-- Home left up button -->
+      <a class="navbar-brand" href="#">HOME</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Dashboard options -->
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav animate side-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="#" title="Agregar"><i class="fas fa-plus"></i> Agregar Informacion<i class="fas fa-plus shortmenu animate"></i></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" title="Buscar"><i class="fas fa-search"></i> Buscar Informacion<i class="fas fa-search shortmenu animate"></i></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" title="Comentar"><i class="fas fa-comment"></i> Comentar <i class="fas fa-comment shortmenu animate"></i></a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-md-auto d-md-flex">
+          <li class="nav-item">
+            <a class="nav-link" href="#"><i class="fas fa-user"></i> Comentar</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" asp-page="_CierreSesionLayout"><i class="fas fa-key"></i> Cerrar Sesion</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Main Content -->
+    @RenderBody()
+
+  </div>
+</body>
+
+</html>
+  
+
+  

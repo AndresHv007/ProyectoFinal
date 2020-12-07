@@ -1,0 +1,25 @@
+@page
+
+@{
+  Layout = "Shared/_MenuLayout.cshtml";
+}
+
+@model CalificacionesWeb.pages.MateriasModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+  <h1 class="display-2">Materias</h1>
+  <table class="table">
+    <thead class="thead-inverse">
+      <tr><th>School Materias</th></tr>
+    </thead>
+    <tbody>
+    @foreach(var Materia in Model.Materias)
+    {
+      <tr><td>@Materia.Nombre</td></tr>
+    }
+    </tbody>
+  </table>
+</div>
+<div class="row">
+</div>

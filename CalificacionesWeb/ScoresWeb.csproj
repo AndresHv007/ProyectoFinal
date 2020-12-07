@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGrupo>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGrupo>
+
+  <ItemGrupo>
+    <ProjectReference Include = "../CalificacionesContext/CalificacionesContext.csproj" />
+  </ItemGrupo>
+</Project>

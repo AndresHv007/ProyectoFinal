@@ -1,0 +1,126 @@
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.exe
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.deps.json
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.runtimeconfig.json
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.runtimeconfig.dev.json
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.pdb
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.Views.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.Views.pdb
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.csprojAssemblyReference.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.AssemblyInfoInputs.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.AssemblyInfo.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.csproj.CoreCompileInputs.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorAssemblyInfo.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorAssemblyInfo.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.TagHelpers.input.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.TagHelpers.output.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorCoreGenerate.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\index.cshtml.g.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorTargetAssemblyInfo.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorTargetAssemblyInfo.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.Views.pdb
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\staticwebassets\CalificacionesWeb.StaticWebAssets.Manifest.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\staticwebassets\CalificacionesWeb.StaticWebAssets.xml
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.pdb
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.genruntimeconfig.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.csproj.CopyComplete
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Materias.cshtml.g.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesContext.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesContext.pdb
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\menu.cshtml.g.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_InicioSesionLayout.cshtml.g.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_MenuLayout.cshtml.g.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_CierreSesionLayout.cshtml.g.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.exe
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.deps.json
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.runtimeconfig.json
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.runtimeconfig.dev.json
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.Views.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesWeb.Views.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesContext.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\bin\Debug\netcoreapp3.1\CalificacionesContext.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.csprojAssemblyReference.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorAssemblyInfo.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorAssemblyInfo.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.TagHelpers.input.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.TagHelpers.output.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorCoreGenerate.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\index.cshtml.g.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\menu.cshtml.g.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_InicioSesionLayout.cshtml.g.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_CierreSesionLayout.cshtml.g.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_MenuLayout.cshtml.g.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Materias.cshtml.g.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.Views.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.csproj.CopyComplete
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\staticwebassets\CalificacionesWeb.StaticWebAssets.Manifest.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\staticwebassets\CalificacionesWeb.StaticWebAssets.xml
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesWeb\obj\Debug\netcoreapp3.1\CalificacionesWeb.genruntimeconfig.cache

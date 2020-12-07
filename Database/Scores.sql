@@ -2,86 +2,86 @@
 PRAGMA foreign_keys = off;
 BEGIN TRANSACTION;
 
--- Table: Assignature
-DROP TABLE IF EXISTS Assignature;
+-- Table: Asignatura
+DROP TABLE IF EXISTS Asignatura;
 
-CREATE TABLE Assignature (
-    IDAssignature INTEGER PRIMARY KEY AUTOINCREMENT,
-    IDTeacher     INTEGER REFERENCES Teacher (IDTeacher),
-    IDSubject     INTEGER REFERENCES Subject (IDSubject),
-    IDGroup       INTEGER REFERENCES GroupAtSchool (IDGroup) 
+CREATE TABLE Asignatura (
+    IDAsignatura INTEGER PRIMARY KEY AUTOINCREMENT,
+    IDProfesor     INTEGER REFERENCES Profesor (IDProfesor),
+    IDMateria     INTEGER REFERENCES Materia (IDMateria),
+    IDGrupo       INTEGER REFERENCES GrupoEnEscuela (IDGrupo) 
 );
 
 
--- Table: Group
-DROP TABLE IF EXISTS GroupAtSchool;
+-- Table: Grupo
+DROP TABLE IF EXISTS GrupoEnEscuela;
 
-CREATE TABLE GroupAtSchool (
-    IDGroup      INTEGER       PRIMARY KEY AUTOINCREMENT,
-    IDPeriodType INTEGER REFERENCES PeriodType (IDPeriodType),
-    Name         VARCHAR (10),
-    StartDate    DATE,
-    CloseDate    DATE
+CREATE TABLE GrupoEnEscuela (
+    IDGrupo      INTEGER       PRIMARY KEY AUTOINCREMENT,
+    IDTipoPeriodo INTEGER REFERENCES TipoPeriodo (IDTipoPeriodo),
+    Nombre         VARCHAR (10),
+    FechaInicio    DATE,
+    FechaFinal    DATE
 );
 
 
--- Table: PeriodType
-DROP TABLE IF EXISTS PeriodType;
+-- Table: TipoPeriodo
+DROP TABLE IF EXISTS TipoPeriodo;
 
-CREATE TABLE PeriodType (
-    IDPeriodType INTEGER       PRIMARY KEY AUTOINCREMENT,
-    Name         VARCHAR (100),
-    Months       INT
+CREATE TABLE TipoPeriodo (
+    IDTipoPeriodo INTEGER       PRIMARY KEY AUTOINCREMENT,
+    Nombre         VARCHAR (100),
+    Meses       INT
 );
 
 
--- Table: Subject
-DROP TABLE IF EXISTS Subject;
+-- Table: Materia
+DROP TABLE IF EXISTS Materia;
 
-CREATE TABLE Subject (
-    IDSubject        INTEGER       PRIMARY KEY AUTOINCREMENT,
-    Name             VARCHAR (100),
-    TheoreticalHours INT (10),
-    PracticalHours   INT (10) 
+CREATE TABLE Materia (
+    IDMateria        INTEGER       PRIMARY KEY AUTOINCREMENT,
+    Nombre             VARCHAR (100),
+    HorasTeoricas INT (10),
+    HorasPracticas   INT (10) 
 );
 
 
--- Table: Teacher
-DROP TABLE IF EXISTS Teacher;
+-- Table: Profesor
+DROP TABLE IF EXISTS Profesor;
 
-CREATE TABLE Teacher (
-    IDTeacher     INTEGER       PRIMARY KEY AUTOINCREMENT,
-    IDTeacherType INTEGER           REFERENCES TeacherType (IDTeacherType),
-    FirstName     VARCHAR (100),
-    MiddleName    VARCHAR (100),
-    FathersLastName  VARCHAR (100),
-    MothersLastName VARCHAR (100),
-    DateOfBirth   DATE,
+CREATE TABLE Profesor (
+    IDProfesor     INTEGER       PRIMARY KEY AUTOINCREMENT,
+    IDTipoProfesor INTEGER           REFERENCES TipoProfesor (IDTipoProfesor),
+    PrimerNombre     VARCHAR (100),
+    SegundoNombre    VARCHAR (100),
+    ApellidoPaterno  VARCHAR (100),
+    ApellidoMaterno VARCHAR (100),
+    FechaNacimiento   DATE,
     RFC           VARCHAR (100),
     CURP          VARCHAR (100),
-    PayCheckNumber INT (50),
-    Password      VARCHAR (100) 
+    Nomina INT (50),
+    Contraseña      VARCHAR (100) 
 );
 
 
--- Table: TeacherType
-DROP TABLE IF EXISTS TeacherType;
+-- Table: TipoProfesor
+DROP TABLE IF EXISTS TipoProfesor;
 
-CREATE TABLE TeacherType (
-    IDTeacherType INTEGER       PRIMARY KEY AUTOINCREMENT,
-    Name          VARCHAR (100),
-    MinWorkingHours      INT,
-    MaxWorkingHours      INT
+CREATE TABLE TipoProfesor (
+    IDTipoProfesor INTEGER       PRIMARY KEY AUTOINCREMENT,
+    Nombre          VARCHAR (100),
+    HorasMinimasTrabajadas      INT,
+    HorasMaximasTrabajadas      INT
 );
 
 
--- Table: TeacherSubject
-DROP TABLE IF EXISTS TeacherSubject;
+-- Table: ProfesorMateria
+DROP TABLE IF EXISTS ProfesorMateria;
 
-CREATE TABLE TeacherSubject (
-    IDTeacherSubject INTEGER PRIMARY KEY AUTOINCREMENT,
-    IDTeacher        INTEGER REFERENCES Teacher (IDTeacher),
-    IDSubject        INTEGER REFERENCES Subject (IDSubject) 
+CREATE TABLE ProfesorMateria (
+    IDProfesorMateria INTEGER PRIMARY KEY AUTOINCREMENT,
+    IDProfesor        INTEGER REFERENCES Profesor (IDProfesor),
+    IDMateria        INTEGER REFERENCES Materia (IDMateria) 
 );
 
 

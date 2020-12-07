@@ -1,0 +1,18 @@
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\bin\Debug\netstandard2.0\CalificacionesContext.deps.json
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\bin\Debug\netstandard2.0\CalificacionesContext.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\bin\Debug\netstandard2.0\CalificacionesContext.pdb
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.csprojAssemblyReference.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.AssemblyInfoInputs.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.AssemblyInfo.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.csproj.CoreCompileInputs.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\bin\Debug\netstandard2.0\CalificacionesContext.deps.json
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\bin\Debug\netstandard2.0\CalificacionesContext.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\bin\Debug\netstandard2.0\CalificacionesContext.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.csprojAssemblyReference.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\CalificacionesContext\obj\Debug\netstandard2.0\CalificacionesContext.pdb
