@@ -7,3 +7,12 @@ C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.csproj.CoreCompileInputs.cache
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.dll
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\bin\Debug\netstandard2.0\ScoresContext.deps.json
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\bin\Debug\netstandard2.0\ScoresContext.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\bin\Debug\netstandard2.0\ScoresContext.pdb
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.csprojAssemblyReference.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.dll
+C:\Users\Andrés\Desktop\CETI\Septimo\Programación Avanzada\Tareas\ProyectoFinal\ProyectoFinal\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.pdb

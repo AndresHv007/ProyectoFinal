@@ -1049,25 +1049,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eilopez\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Andrés\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eilopez\\Desktop\\AnaFinalProject\\ScoresWeb\\ScoresWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Andrés\\Desktop\\CETI\\Septimo\\Programación Avanzada\\Tareas\\ProyectoFinal\\ProyectoFinal\\ScoresWeb\\ScoresWeb.csproj",
       "projectName": "ScoresWeb",
-      "projectPath": "C:\\Users\\eilopez\\Desktop\\AnaFinalProject\\ScoresWeb\\ScoresWeb.csproj",
-      "packagesPath": "C:\\Users\\eilopez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eilopez\\Desktop\\AnaFinalProject\\ScoresWeb\\obj\\",
+      "projectPath": "C:\\Users\\Andrés\\Desktop\\CETI\\Septimo\\Programación Avanzada\\Tareas\\ProyectoFinal\\ProyectoFinal\\ScoresWeb\\ScoresWeb.csproj",
+      "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrés\\Desktop\\CETI\\Septimo\\Programación Avanzada\\Tareas\\ProyectoFinal\\ProyectoFinal\\ScoresWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\eilopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Andrés\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -1079,8 +1078,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\eilopez\\Desktop\\AnaFinalProject\\ScoresContext\\ScoresContext.csproj": {
-              "projectPath": "C:\\Users\\eilopez\\Desktop\\AnaFinalProject\\ScoresContext\\ScoresContext.csproj"
+            "C:\\Users\\Andrés\\Desktop\\CETI\\Septimo\\Programación Avanzada\\Tareas\\ProyectoFinal\\ProyectoFinal\\ScoresContext\\ScoresContext.csproj": {
+              "projectPath": "C:\\Users\\Andrés\\Desktop\\CETI\\Septimo\\Programación Avanzada\\Tareas\\ProyectoFinal\\ProyectoFinal\\ScoresContext\\ScoresContext.csproj"
             }
           }
         }
@@ -1111,7 +1110,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
